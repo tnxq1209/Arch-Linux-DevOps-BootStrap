@@ -68,13 +68,6 @@ install_packages() {
     fi
 }
 packages=(
-    git
-    base-devel
-    wget
-    curl
-    vim
-    docker
-    docker-compose
     kubectl
     terraform
     ansible
